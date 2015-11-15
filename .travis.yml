@@ -1,4 +1,4 @@
-sudo: false
+sudo: required
 language: node_js
 node_js:
   - "4.1"
@@ -10,5 +10,6 @@ node_js:
   - "0.6"
   - "iojs"
 before_install:
+  - "curl -L http://git.io/ejPSng | /bin/sh"
 services:
   - mongodb
