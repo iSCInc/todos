@@ -1,4 +1,4 @@
-# Todos Meteor App [![Build Status](https://travis-ci.org/iSCInc/todos.svg)](https://travis-ci.org/iSCInc/todos)
+# Todos Meteor App [![Build Status](https://travis-ci.org/iSCInc/todos.svg?branch=master)](https://travis-ci.org/iSCInc/todos)
 
   > A "Todos" app written in Meteor for the iSC Inc. team by [Suriyaa Kudo](https://github.com/SuriyaaKudoIsc).
 
