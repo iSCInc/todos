@@ -13,24 +13,18 @@ Meteor.startup(function () {
        ]
       },
       {name: "Languages",
-       items: ["Lisp",
-         "C",
-         "C++",
+       items: ["HTML",
+         "JavaScript",
+         "CSS",
          "Python",
          "Ruby",
-         "JavaScript",
-         "Scala",
-         "Erlang",
-         "6502 Assembly"
+         "NuxRB",
+         "Wift"
          ]
       },
-      {name: "Favorite Scientists",
-       items: ["Ada Lovelace",
-         "Grace Hopper",
-         "Marie Curie",
-         "Carl Friedrich Gauss",
-         "Nikola Tesla",
-         "Claude Shannon"
+      {name: "Team Members",
+       items: ["Suriyaa Kudo",
+         "Aahash de Ruffy"
        ]
       }
     ];
