@@ -10,6 +10,5 @@ node_js:
   - "0.6"
   - "iojs"
 before_install:
-  - "curl -L https://install.meteor.com/ | /bin/sh"
 services:
   - mongodb
